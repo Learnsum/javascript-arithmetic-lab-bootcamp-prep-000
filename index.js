@@ -1,2 +1,3 @@
 var a = 1, b = 2
-add(a, b) 
+function add() {a+=b}
+function subtract() {a-=b}
